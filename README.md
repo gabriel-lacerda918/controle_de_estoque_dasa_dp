@@ -9,7 +9,7 @@ challenge_sprint-3_dynamic_programming
 - Luiza Macena RM 556237
 - Roger Cardoso RM 557230
 
-2ESPW
+FIAP - 2ESPW
 
  Este notebook implementa **estruturas de dados e algoritmos clássicos** aplicados ao consumo de insumos hospitalares.
 
